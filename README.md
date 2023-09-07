@@ -1,5 +1,5 @@
 # Eniac-Magist Business deal
-## Project Task :
+## Task :
 Assessing Strategic Alignment of Magist as a Partner for Eniac's Expansion into the Brazilian Market Based on Database Analysis
 
 ## Overview :
@@ -19,6 +19,6 @@ Evaluate Magist on the following criteria:
 * Delivery times
 * Customer satisfaction
 
-## Project Files :
+## Files :
 * SQL Files: These files contain SQL queries and commands used for data exploration and data analysis.
 * Presentation: A summary presentation highlighting key findings, insights, and recommendations based on the data analysis. It include visualizations created in Tableau to help communicate insights effectively. 
